@@ -1,0 +1,11 @@
+#problem2
+a=set()
+a.update({input("enter a number")})
+a.update({input("enter a number")})
+a.update({input("enter a number")})
+a.update({input("enter a number")})
+a.update({input("enter a number")})
+a.update({input("enter a number")})
+a.update({input("enter a number")})
+a.update({input("enter a number")})
+print(a)
